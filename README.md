@@ -1,4 +1,4 @@
-# buildspace x thirdweb - Build your own DAO with just Javascript
+# DAO on Ethereum network
 
 ### **Welcome 👋**
 To get started with this course, clone this repo and follow these commands:
@@ -7,5 +7,9 @@ To get started with this course, clone this repo and follow these commands:
 2. Run `npm start` to start the project
 3. Start coding!
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766) and link your Discord account so you can get access to helpful channels and your instructor!
+
+##To see the live project:
+https://my-lane-dao.vercel.app/
+
+Pre requisites: metamask wallet with test ethereum on rinkeby testnet.
+And that's it you can mint the membership NFT and be a part of the DAO and also vote on a proposal.
