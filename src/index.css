@@ -30,6 +30,9 @@ h1 {
   margin: auto;
   padding: 1rem;
 }
+a:link{
+  color: white;
+}
 
 .error {
   width: 340px;

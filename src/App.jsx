@@ -188,6 +188,7 @@ const App = () => {
                 ))}
               </tbody>
             </table>
+            <div><p>Built with ❤ by <a href="https://github.com/Sid2202" style={{color: "#FFFFFF", fontWeight: "bold"}}> SidPatil</a></p></div>
           </div>
           <div>
             <h2>Active Proposals</h2>
