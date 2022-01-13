@@ -189,6 +189,8 @@ const App = () => {
               </tbody>
             </table>
             <div><p>Built with ❤ by <a href="https://github.com/Sid2202" style={{color: "#FFFFFF", fontWeight: "bold"}}> SidPatil</a></p></div>
+=======
+>>>>>>> 28c4c27783f533f3334ac3a417df539b0e395870
           </div>
           <div>
             <h2>Active Proposals</h2>
